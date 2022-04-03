@@ -1,2 +1,2 @@
-These machine learning projects deals with the prediction of classification problems, which consist different binary class and multi-class classification problems. 
+These machine learning projects provide the prediction of classification problems, which target different binary class and multi-class classification problems. 
 
