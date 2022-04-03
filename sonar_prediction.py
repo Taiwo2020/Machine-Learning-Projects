@@ -1,4 +1,4 @@
-# This code predicts sonar instances as mines or rocks.
+# This code predicts sonar instances as mines or rocks. It is binary classification problem
 
 
 import warnings
