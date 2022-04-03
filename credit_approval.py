@@ -1,4 +1,4 @@
-# This code predicts the approval or decline of credit card requests in a financial company
+# This code predicts the approval or decline of credit card requests in a financial company. It is a binary classification problem
 
 import warnings
 warnings.filterwarnings('ignore')
