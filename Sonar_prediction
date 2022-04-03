@@ -1,3 +1,6 @@
+# This code predicts sonar instances as mines or rocks.
+
+
 import warnings
 warnings.filterwarnings('ignore')
 
