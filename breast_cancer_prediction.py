@@ -21,7 +21,7 @@ from sklearn.model_selection import RandomizedSearchCV
 from mlxtend.evaluate import bias_variance_decomp
 from sklearn.ensemble import RandomForestClassifier,VotingClassifier
 from sklearn.preprocessing import LabelEncoder,MinMaxScaler
-#from sklearn.ensemble import IsolationForest
+from sklearn.ensemble import IsolationForest
 from imblearn.over_sampling import SMOTE
 import category_encoders as ce
 
