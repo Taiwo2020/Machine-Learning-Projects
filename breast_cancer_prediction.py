@@ -1,4 +1,4 @@
-# This code predict the presence or absence of breast cancer in a patient.
+# This code predict the presence or absence of breast cancer in a patient. It is binary classification problem
 
 import warnings
 warnings.filterwarnings('ignore')
