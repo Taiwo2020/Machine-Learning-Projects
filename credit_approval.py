@@ -26,8 +26,7 @@ from imblearn.over_sampling import SMOTE
 import category_encoders as ce
 
 # Importing or Loading dataset
-#data = "/mnt/lustre3p/users/tomomule/classification/credit_data.csv"
-data = "C:/Users/Omomule Taiwo G/Desktop/phd_datasets/credit_data.csv"
+data = "C:/Users/Gabriel/Desktop/credit_data.csv"
 # Typical Credit loan features
 features = ['Gender','Age','Debt','Marital_Status','Bank_Customer','Education_Level',
             'Ethnicity','Years_Employed','Prior_Default','Employed','Credit_Score','Drivers_License',
