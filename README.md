@@ -1,1 +1,2 @@
-The real estate project provides python codes that predict the monetary valuation of real estates.
+These machine learning projects deals with the prediction and estimation of different classification and regression problems. 
+
